@@ -1,7 +1,37 @@
+```text
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠩⣱⣿⣿⣿⣿⣿⢿⡿⣿⣷⣥
+⣿⣿⣿⣿⣿⣿⣿⠋⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠻⣏⡿⠳⢻⠏⠁⢼⣿⣿⣿
+⣿⣿⣿⣿⣿⡿⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠹⡡⣤⣻⣿⣶⣬⣿⣿⣿
+⣿⣿⣿⣿⣿⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣿⡿⢿⡟⣻⣿
+⣿⣿⣿⣿⠇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠙⠁⠈⠁⠄⠄⠈⣿
+⠹⣿⣿⡿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢹
+⠄⢻⣿⠇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠸
+⣴⣼⡿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐
+⣻⣽⡇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣀
+⣿⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣆⠄⠄⠄⣀⣀⣦⣤⣤⣴⣤⠄⠄⠄⠄⠄⠄⠄⣥⣶⢾⣿⣿⢿
+⣿⣷⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢰⡀⠄⣀⣀⣀⣀⣀⣤⣶⣶⣿⡿⠿⢿⣛⣛⣻⡿⠿⣿⣿⡇⠄⢸⣿⣧⡀⢰⣿⣿⣾⡶⡿⢿
+⠸⣿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣠⣴⣼⣿⣿⣿⣿⣿⣿⣿⡿⣛⣭⣶⣿⠟⢻⣿⣿⣿⣿⣷⣿⣿⣿⠄⠨⣮⢻⣷⢘⣛⣯⣵⣷⣿⣿
+⢠⣘⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⢧⣿⣿⣿⣇⠄⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿
+⣾⣷⢂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣀⣤⣶⡿⣟⣫⣽⣶⣾⣿⣿⣿⣿⣿⣿⡟⣿⣿⣿⣿⣿⣾⡿⣿⣿⣿⣿⣿⣿⢟⣵⣿⣿⣿⣿⣿⠐⣿⣧⣿⣿⣿⡿⣿⣻⣿⣿
+⣿⣿⣯⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣼⡿⣫⣵⣿⣿⣿⣯⣼⣿⣿⣿⡿⣿⣿⣿⣿⣹⣿⣿⣿⣿⣿⣿⣶⣾⣭⣭⣷⣾⣿⣿⣿⣿⣿⣿⣿⡆⣘⢿⣿⢹⣿⣾⣿⣿⣿⣿
+⣹⢿⣿⣯⠄⠄⠄⠄⠄⣀⠄⠄⢰⣿⣿⣏⢿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣽⣿⣿⣿⣿⣇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⡿⣺⣿⣿⣿⣿⣿⣿
+⡝⢷⠄⠄⠄⠄⠊⠄⢸⡿⣓⡀⠈⣿⣿⣿⣷⣝⣻⠿⠿⠿⢿⣛⣵⣾⣿⣿⣿⣿⣿⣿⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⡟⣽⣿⣿⣿⣿⣿⣿⣿
+⡾⠁⠄⠄⠄⠄⠄⣴⢸⣇⣿⣷⡄⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢵⡞⢽⣿⣿⣿⣗⣿⣿⣿
+⠄⠄⠄⠄⠄⣠⣾⣿⡞⣿⡞⣿⣿⣄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣽⢿⣾⣷⣿⣿⣿⣿⣿⣿
+⠄⠄⠄⣠⣾⣿⣿⣿⣿⡜⣿⣎⢿⡿⠄⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣽⣻⣿⣿⢫⣿⣷⣿⣿⡿
+⢀⣴⣿⣿⣿⣿⣿⢿⣿⣿⣎⠻⣷⣼⣷⣄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⣯⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣷⣿⣿⣿⣿⣿⣶⣵⣿
+⣿⣿⣿⣿⣿⣿⡏⣟⣛⣭⣼⣿⣮⡻⢿⣿⣧⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⣿⣿⣿⣿⣿⣿⣿⣿⡿⣻⣿
+⣿⣿⣿⢛⡿⣻⣥⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣣⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⢏⣥⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡻⣭⣿⣿⣷⣝⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿
+⣟⣷⣿⣿⣿⣿⣿⣿⣿⡾⣿⣿⣿⠩⢿⣟⣾⣿⣿⣿⣮⡻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⢀⠰⣆⡏⠉⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣯⣿⣿⣿⣿⡹⣿⣷⣿⣾⣿⡟⠿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣝⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣟⢩⠰⣚⣵⠾⠋⠄⠄⠄⢻⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⠿⠝⣿⣿⣟⣿⣿⣿⣿⣿⣷⣿⡿⣿⣯⣿⣿⡿⣿⣿⣿⣿⣿⣿⣷⣯⡙⣛⣿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣛⣻⡵⣞⣫⡶⠟⠋⠁⠄⠄⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿
+⠾⣻⣾⣽⣿⣿⣿⣯⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣓⢻⣿⣿⣿⡿⠶⠶⣶⣛⣛⢿⣿⣿⠇⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠋⠄⠙⠛⠛⠉⠉⠄
+⣿⣿⣿⣿⣿⣿⣾⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠄⠲⠶⠖⠶⠛⠛⠛⠋⠉⠉⠉⠈⠙⣿⡆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣯⣿⣿⣽⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠹⣧⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢻⡆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
 
-
-
-
+```
 ### Desenvolvedor de Software Backend Java | ADS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-bozzoni)
@@ -46,32 +76,23 @@
 
 ### 🚀 Projetos em Destaque
 
-#### 🔹 [API RESTful de Gerenciamento & Persistência de Dados](https://github.com/BozZf)[cite: 1]
-* Implementação de operações completas de CRUD com validação de dados via Bean Validation e padronização de respostas HTTP[cite: 1].
+#### 🔹 [API RESTful de Gerenciamento & Persistência de Dados](https://github.com/BozZf)
+* Implementação de operações completas de CRUD com validação de dados via Bean Validation e padronização de respostas HTTP.
 * Arquitetura em camadas desacopladas (Controller, Service, Repository, DTO) aplicando boas práticas de Clean Code[cite: 1].
 * Documentação técnica interativa utilizando OpenAPI/Swagger UI[cite: 1].
-* **Tecnologias:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL, Maven, Swagger[cite: 1].
+* **Tecnologias:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL, Maven, Swagger.
 
-#### 🔹 [Microsserviço de Armazenamento Integrado à Nuvem AWS](https://github.com/BozZf)[cite: 1]
-* Serviço backend para upload, download e gerenciamento de arquivos integrado a buckets do Amazon S3 via AWS SDK[cite: 1].
-* Tratamento global e padronizado de exceções com `ControllerAdvice` e estruturação de logs[cite: 1].
-* **Tecnologias:** Java, Spring Boot, AWS SDK (S3), Postman[cite: 1].
+#### 🔹 [Microsserviço de Armazenamento Integrado à Nuvem AWS](https://github.com/BozZf)
+* Serviço backend para upload, download e gerenciamento de arquivos integrado a buckets do Amazon S3 via AWS SDK.
+* Tratamento global e padronizado de exceções com `ControllerAdvice` e estruturação de logs.
+* **Tecnologias:** Java, Spring Boot, AWS SDK (S3), Postman.
 
 ---
 
 ### 📜 Certificações & Cursos
-* **Santander 2024 - Backend com Java** – DIO (Java Moderno, POO, Spring Framework, APIs REST e Bancos de Dados)[cite: 1]
-* **Fundamentos de Cloud com AWS** – GFT (Arquitetura em Nuvem, Segurança IAM, Computação e S3)[cite: 1]
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BozZf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozZf&layout=compact&theme=tokyonight"/>
-</p>
-
+* **Santander 2024 - Backend com Java** – DIO (Java Moderno, POO, Spring Framework, APIs REST e Bancos de Dados)
+* **Fundamentos de Cloud com AWS** – GFT (Arquitetura em Nuvem, Segurança IAM, Computação e S3)
+  
 ---
 
 ### 📫 Contato
