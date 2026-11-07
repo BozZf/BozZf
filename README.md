@@ -40,7 +40,6 @@
 ---
 
 ### 📌 Sobre Mim
-* 📍 Votorantim - SP, Brasil
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Fev/2025 – Fev/2027) pela Ampli.
 * 💻 Foco em **Engenharia de Software e Desenvolvimento Backend** com Java e ecossistema Spring.
 * ☁️ Conhecimentos práticos em arquitetura de microsserviços, APIs RESTful e serviços em nuvem com **AWS (S3, EC2, IAM)**.
@@ -95,7 +94,3 @@
 * **Fundamentos de Cloud com AWS** – GFT (Arquitetura em Nuvem, Segurança IAM, Computação e S3)
   
 ---
-
-### 📫 Contato
-* 💼 [LinkedIn](https://www.linkedin.com/in/felipe-bozzoni)
-* ✉️ [fe.bozzoni@gmail.com](mailto:fe.bozzoni@gmail.com)
