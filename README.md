@@ -40,6 +40,7 @@
 ---
 
 ### 📌 Sobre Mim
+* 📍 Votorantim - SP, Brasil
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Fev/2025 – Fev/2027) pela Ampli.
 * 💻 Foco em **Engenharia de Software e Desenvolvimento Backend** com Java e ecossistema Spring.
 * ☁️ Conhecimentos práticos em arquitetura de microsserviços, APIs RESTful e serviços em nuvem com **AWS (S3, EC2, IAM)**.
@@ -76,13 +77,13 @@
 
 ### 🚀 Projetos em Destaque
 
-#### 🔹 [API RESTful de Gerenciamento & Persistência de Dados](https://github.com/BozZf)
+#### 🔹 [API RESTful de Gerenciamento & Persistência de Dados](https://github.com/BozZf/wow-character-interaction)
 * Implementação de operações completas de CRUD com validação de dados via Bean Validation e padronização de respostas HTTP.
 * Arquitetura em camadas desacopladas (Controller, Service, Repository, DTO) aplicando boas práticas de Clean Code[cite: 1].
 * Documentação técnica interativa utilizando OpenAPI/Swagger UI[cite: 1].
 * **Tecnologias:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL, Maven, Swagger.
 
-#### 🔹 [Microsserviço de Armazenamento Integrado à Nuvem AWS](https://github.com/BozZf)
+#### 🔹 [Microsserviço de Armazenamento Integrado à Nuvem AWS](https://github.com/BozZf/dio-aws-terceiro-projeto-cloudformation)
 * Serviço backend para upload, download e gerenciamento de arquivos integrado a buckets do Amazon S3 via AWS SDK.
 * Tratamento global e padronizado de exceções com `ControllerAdvice` e estruturação de logs.
 * **Tecnologias:** Java, Spring Boot, AWS SDK (S3), Postman.
@@ -96,6 +97,5 @@
 ---
 
 ### 📫 Contato
-* 📍 Votorantim - SP, Brasil
 * 💼 [LinkedIn](https://www.linkedin.com/in/felipe-bozzoni)
 * ✉️ [fe.bozzoni@gmail.com](mailto:fe.bozzoni@gmail.com)
